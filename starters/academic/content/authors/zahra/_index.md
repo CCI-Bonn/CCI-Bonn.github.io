@@ -31,7 +31,7 @@ interests:
   - CCI-Bonn
 
 education:
-courses:
+  courses:
     - course: MSc in AI in medicine
       institution: University of Bern
       year: 2024
@@ -44,6 +44,9 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/zahra-hamedi-794045280
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
