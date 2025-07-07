@@ -68,7 +68,7 @@
   {{/* All other full-time */}}
   
     {{ $middleStart := 1 }}                               
-    {{ $middleEnd := sub $authorsCount 2 }}
+    {{ $middleEnd := sub $authorsCount 3 }}
     {{ if gt $middleEnd $middleStart }}               
     {{ $middleAuthors := first $middleEnd (after $middleStart $query) }}
   <div class="row row-middle" style="margin-top: 15px;">
@@ -138,7 +138,7 @@
   {{ end }}
   {{ else }}
   {{/* Master thesis, Hiwi */}}
-    {{ range last 1 $query }}
+    {{ range last 2 $query }}
     {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
   {{/* Get link to user's profile page. */}}
   {{ $link := "" }}
