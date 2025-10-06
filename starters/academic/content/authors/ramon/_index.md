@@ -32,15 +32,15 @@ interests:
 
 education:
   courses:
-    - course: "MSc Mathematics"
-      institution: "Rhenish Friedrich Wilhelm University of Bonn"
-      year: "Since 2021"
-    - course: "BSc Mathematics"
-      institution: "Vrije Universiteit Amsterdam"
-      year: "2019 - 2021"
-    - course: "BSc Digital Media"
-      institution: "University Bremen"
-      year: "2015 - 2019"
+    - course: MSc Mathematics
+      institution: Rhenish Friedrich Wilhelm University of Bonn
+      year: Since 2021
+    - course: BSc Mathematics
+      institution: Vrije Universiteit Amsterdam
+      year: 2019 - 2021
+    - course: BSc Digital Media
+      institution: University Bremen
+      year: 2015 - 2019
     
 
 social:
