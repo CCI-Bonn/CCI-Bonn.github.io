@@ -6,7 +6,7 @@ title: Sumantra Sharma
 first_name: Sumantra
 last_name: Sharma
 
-weight: 12
+weight: 21
 
 # Username (this should match the folder name)
 authors:
@@ -73,7 +73,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research team members
+  - Alumni
 ---
 
 I'm a Software Engineer with over 5 years of experience in building scalable back-end systems and distributed cloud solutions. Before joining CCIBonn.ai, I had short stints at Meta and Amazon AWS, where I helped improve large-scale infrastructure for products like Facebook, Instagram, and AWS IoT. Earlier in my career, I also worked at the Biorobotics Lab at the National University of Singapore, where I developed real-time control systems for robotics using C/C++, Python, Django, and AWS. I hold a Master’s degree in Computer Science from the University at Buffalo and specialize in Java, Python, Spring Boot, and AWS.

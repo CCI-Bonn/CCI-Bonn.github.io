@@ -6,7 +6,7 @@ title: Pavithra Raghavan
 first_name: Pavithra
 last_name: Raghavan
 
-weight: 16
+weight: 15
 # Username (this should match the folder name)
 authors:
   - pavithra

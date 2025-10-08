@@ -6,7 +6,7 @@ title: German Mikhelson
 first_name: German
 last_name: Mikhelson
 
-weight: 17
+weight: 16
 # Username (this should match the folder name)
 authors:
   - german
