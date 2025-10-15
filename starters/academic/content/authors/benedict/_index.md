@@ -6,7 +6,7 @@ title: Benedict Meyer
 first_name: Benedict
 last_name: Meyer
 
-weight: 18
+weight: 19
 # Username (this should match the folder name)
 authors:
   - benedict
