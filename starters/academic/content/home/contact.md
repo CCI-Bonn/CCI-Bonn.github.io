@@ -27,12 +27,12 @@ content:
   # Contact details (edit or remove options as required)
   email: contact@ccibonn.ai
   address:
-    street: 'Office: University Hospital Bonn, Venusberg-Campus 1, Building C91' 
+    street: 'Bonnjour 1.0G, Baunscheidtstraße 17' 
     city: Bonn
-    postcode: '53127'
+    postcode: '53113'
     country: Germany
     country_code: DE
-  post_address: 'Postbox: University Hospital Bonn, Venusberg-Campus 1, Building C81, 53127 Bonn, Germany'
+  #post_address: 'Postbox: University Hospital Bonn, Venusberg-Campus 1, Building C81, 53127 Bonn, Germany'
   coordinates:
     latitude: '50.695805'
     longitude: '7.103828'
