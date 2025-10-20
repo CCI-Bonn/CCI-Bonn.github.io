@@ -24,15 +24,13 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I was born in the italian alps and completed my medical training in Milan. I then moved to Germany to begin my residency, where I also joined our early efforts in the development of artificial intelligence applications in radiology. My research focus lies on the development of AI solutions that can simplify and optimize the radiological workflow.
+bio: I was born in the italian alps and completed my medical training in Milan. I then moved to Germany to begin my residency, where I contributed to our early efforts in the development of artificial intelligence applications in radiology. My research focus lies on the development of AI solutions that can simplify and optimize the radiological workflow.
 
 interests:
   - Clinically meaningful AI
   - Stroke & Vascular imaging
   - Computer Vision
-  - Good restaurants
   - Skiing
-  - Music on Vinyl
 
 education:
   courses:
@@ -72,4 +70,4 @@ user_groups:
   - Research team members
 ---
 
-I was born in the italian alps and completed my medical training in Milan. I then moved to Germany to begin my residency, where I also joined our early efforts in the development of artificial intelligence applications in radiology. My research focus lies on the development of AI solutions that can simplify and optimize the radiological workflow.
+I was born in the italian alps and completed my medical training in Milan. I then moved to Germany to begin my residency, where I contributed to our early efforts in the development of artificial intelligence applications in radiology. My research focus lies on the development of AI solutions that can simplify and optimize the radiological workflow.
