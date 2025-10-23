@@ -12,7 +12,7 @@ projects: []
 date: '2025-05-31T00:00:00Z'
 
 # Date updated
-lastmod: '2025-05-31T00:00:00Z'
+lastmod: '2025-10-23T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -30,7 +30,7 @@ image:
   size: small
 
 authors:
-  - aditya
+  - philipp
 
 tags:
   - job-posting
@@ -72,4 +72,4 @@ TBD
 
 ## Interested? Contact us
 
-- Please send your application to contact@ccibonn.ai (cc: aditya.rastogi@ukbonn.de), mentioning the role you want to apply for along with your CV and a short cover letter (~ 1 page, about yourself (not included in CV) and your research interest).
+- Please send your application to contact@ccibonn.ai, mentioning the role you want to apply for along with your CV and a short cover letter (~ 1 page, about yourself (not included in CV) and your research interest).
