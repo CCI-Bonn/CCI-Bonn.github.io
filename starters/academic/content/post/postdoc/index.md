@@ -58,11 +58,11 @@ We are looking for multiple Postdoctoral researchers to join our group at CCIBon
 
 ## Your Benefits
 
-- 100% of TVL E-13 with 3 years (TVL E-14 is possible with supervision work).
+- 100% of TVL E-13 with 3 years (TVL E-14 is possible with supervision work)
 - Access to large-scale multicentric, multimodal (images, reports) datasets 
-- The division has exclusive access to the latest and powerful computing resource (NVIDIA DGX (1x B200, 1x H200) clusters). additional high-performance workstations (with RTX A6000 GPUs, etc.) 
+- The division has exclusive access to the latest and powerful computing resource (NVIDIA DGX (1x B200, 1x H200) clusters), plus additional high-performance workstations (with RTX A6000 GPUs, etc)
 - Access to the latest medical imaging scanners (multiple of the latest 3T MR scanners, a 0.065T Swoop hyperfine scanner and a 7T MR scanner) 
-- Opportunities to collaborate with other research groups and institutes, such as DKFZ (German Cancer Research Center), DZNE (German research center for Neurodegenerative Diseases), Mathematics Department at the University of Bonn, within EORTC (European Organization for Research and Treatment of Cancer) and within MICCAI BRATS.  
+- Opportunities to collaborate with other research groups and institutes, such as DKFZ (German Cancer Research Center), DZNE (German research center for Neurodegenerative Diseases), Mathematics Department at the University of Bonn, within EORTC (European Organization for Research and Treatment of Cancer) and within MICCAI BRATS  
 - Opportunities to attend national and international conferences (MICCAI, CVPR,...) 
 - Potential for being involved in industry (research) collaborations 
 
@@ -72,4 +72,4 @@ TBD
 
 ## Interested? Contact us
 
-- Please send your application to contact@ccibonn.ai, mentioning the role you want to apply for along with your CV and a short cover letter (~ 1 page, about yourself (not included in CV) and your research interest).
+- Please send your application to contact@ccibonn.ai, including your CV and a short cover letter (~ 1 page, about yourself (not included in CV) and your research interest).
