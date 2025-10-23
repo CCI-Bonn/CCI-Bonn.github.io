@@ -24,7 +24,7 @@ organizations:
   - name: Division for Medical Image Computing (MIC), German Cancer Research Center (DKFZ) Heidelberg
   - name: Center for Medical Data Use and Translation (ZMDT), University of Bonn
 # Short bio (displayed in user profile at end of posts)
-bio: Live longer tha
+bio: Prof for AI in Medical Imaging | Division Head Computational Radiology & Clinical AI | CCIBonn.ai
 
 
 
