@@ -3,7 +3,7 @@ title: A Postdoc Position
 subtitle: Research Positions
 
 # Summary for listings and search engines
-summary: "We are looking for a Postdoctoral researcher to join our group at CCIBonn.ai (Division for Computational Radiology & Clinical AI). This is an opportunity to delve into AI-driven translational research and contribute to significant advancements in the clinical application of foundation models for radiology, encompassing Computer Vision and Natural Language Processing (NLP) algorithms."
+summary: "We are seeking a Postdoctoral Researcher to join our group at CCIBonn (Division of Computational Radiology & Clinical AI, University Hospital Bonn). This position offers the opportunity to engage in cutting-edge, AI-driven translational research, spanning both Computer Vision and Natural Language Processing (NLP) applications."
 
 # Link this post with a project
 projects: []
@@ -39,7 +39,7 @@ categories:
   - job-posting
 ---
 
-We are looking for a Postdoctoral researcher to join our group at CCIBonn.ai (Division for Computational Radiology & Clinical AI). This is an opportunity to delve into AI-driven translational research funded by European Research Council (ERC) and contribute to significant advancements in the clinical application of foundation models for radiology, encompassing Computer Vision and Natural Language Processing (NLP) algorithms. Our research group has consistently contributed to reputed journals and conferences, including The Lancet Oncology, The Lancet Digital Health, Nature Communications and Radiology among others. We are developing various tools to support our research projects - You can check out our work on our GitHub organizations ([OpenRadX](https://github.com/openradx) and [CCIBonn](https://github.com/CCI-Bonn)). This is a great opportunity to dive into AI-driven translational research and contribute to significant advancements in the clinical application of Computer Vision or NLP algorithms. 
+We are seeking a Postdoctoral Researcher to join our group at CCIBonn (Division of Computational Radiology & Clinical AI, University Hospital Bonn). This position offers the opportunity to engage in cutting-edge, AI-driven translational research — supported by the European Research Council (ERC), the German Research Foundation (DFG), and the Else Kröner-Fresenius Foundation (EKFS) among others. The successful candidate will contribute to advancing the clinical deployment of foundation models in radiology, spanning both Computer Vision and Natural Language Processing (NLP) applications. Our research group has consistently contributed to reputed journals and conferences, including The Lancet Oncology, The Lancet Digital Health, Nature Communications and Radiology among others. We are developing various tools to support our research projects - You can check out our work on our GitHub organizations ([OpenRadX](https://github.com/openradx) and [CCIBonn](https://github.com/CCI-Bonn)). This is a great opportunity to dive into AI-driven translational research and contribute to significant advancements in the clinical application of Computer Vision or NLP algorithms. 
 
 ## Your Responsibilities
 
