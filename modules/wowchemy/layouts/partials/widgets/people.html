@@ -107,7 +107,7 @@
   {{/* Alumni */}}
   <div class="row row-last" style="margin-top: 15px;justify-content: center;width: -webkit-fill-available;">
     {{ if eq . "Alumni" }}
-      {{ range last 3 $query }}
+      {{ range last 4 $query }}
     {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
   {{/* Get link to user's profile page. */}}
   {{ $link := "" }}

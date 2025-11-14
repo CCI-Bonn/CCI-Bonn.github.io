@@ -6,7 +6,7 @@ title: Laurenz Heidrich
 first_name: Laurenz
 last_name: Heidrich
 
-weight: 14
+weight: 23
 # Username (this should match the folder name)
 authors:
   - laurenz
@@ -66,7 +66,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research team members
+  - Alumni
 ---
 
 I was born and raised in Bonn, completed my bachelor's in Aachen, earned my master's in Munich, and have now returned to my hometown to help push the boundaries of clinical AI. During my academic journey, I developed a deep interest in computer vision, exploring its applications across diverse domains—from autonomous driving to medical imaging. At CCI.Bonn, my current focus is on MRI super-resolution.
