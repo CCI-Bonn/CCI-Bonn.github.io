@@ -1,54 +1,56 @@
 ---
 # Display name
-title: Samuel Kwong
+title: Ritwik Ghosh
 
 # Full name (for SEO)
-first_name: Samuel
-last_name: Kwong
+first_name: Ritwik
+last_name: Ghosh
 
-weight: 13
+weight: 14
+
 # Username (this should match the folder name)
 authors:
-  - samuel
+  - ritwik
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Software Engineer
+role: Software Engineering
 
 # Organizations/Affiliations
-organizations:
-  - name: University Hospital Bonn
+organization:
+  - name: Universitatsklinukum Bonn
     url: 'https://ccibonn.ai/'
+ 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an engineer dedicated to developing innovative software solutions that will aid workflows for medical researchers and clinicians.
+bio: "Software developer with special interests in high performance computing, AI, Photogrammetry."
 
 interests:
-  - Medical Imaging Software
-  - Web Development
-  - Large Language Models
+  - Computer Science
+  - History, Anthropology, Psychology, Linguistics, Poetry
+  - Nature
+  - Bikes, Kettlebells, Clubs, Maces
+  - Kickboxing, Grappling
 
 education:
   courses:
-    - course: MSc in Media Informatics
-      institution: RWTH Aachen University
-      year: 2025
-    - course: BSc in Computer Science
-      institution: University of Virginia
-      year: 2017
-
+    - course: Bachelors in Computer Engineering 
+      institution: University of Pune
+    
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:samuel.kwong@ukbonn.de'
+    link: 'mailto:ritwik.ghosh@ukbonn.de'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/samuel-kwong-7666a0319/
+    link: https://www.linkedin.com/in/ritwik-ghosh-51850121/
   - icon: github
     icon_pack: fab
-    link: https://github.com/samuelvkwong
+    link: https://github.com/NumericalAdvantage
+
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -56,11 +58,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'samuel.kwong@ukbonn.de'
+email: 'ritwik.ghosh@ukbonn.de'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Research team members
 ---
+
 
