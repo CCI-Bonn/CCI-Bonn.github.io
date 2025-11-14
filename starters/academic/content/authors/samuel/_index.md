@@ -6,7 +6,7 @@ title: Samuel Kwong
 first_name: Samuel
 last_name: Kwong
 
-weight: 15
+weight: 13
 # Username (this should match the folder name)
 authors:
   - samuel

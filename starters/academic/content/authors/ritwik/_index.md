@@ -6,7 +6,7 @@ title: Ritwik Ghosh
 first_name: Ritwik
 last_name: Ghosh
 
-weight: 16
+weight: 14
 
 # Username (this should match the folder name)
 authors:
