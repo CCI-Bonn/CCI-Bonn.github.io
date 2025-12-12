@@ -6,7 +6,7 @@ title: Manuel Debić
 first_name: Manuel
 last_name: Debic
 
-weight: 21
+weight: 22
 
 # Username (this should match the folder name)
 authors:

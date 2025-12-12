@@ -1,3 +1,4 @@
+---
 # Display name
 title: Alina Pollehn
 
@@ -5,7 +6,7 @@ title: Alina Pollehn
 first_name: Alina
 last_name: Pollehn
 
-weight: 
+weight: 20
 # Username (this should match the folder name)
 authors:
   - alina
