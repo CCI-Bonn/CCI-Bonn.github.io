@@ -36,3 +36,5 @@ design:
   view: compact
   columns: '2'
 ---
+
+Currently, we don't have any open positions.
