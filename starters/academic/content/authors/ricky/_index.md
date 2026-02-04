@@ -6,7 +6,7 @@ title: Ricky Walsh, PhD
 first_name: Ricky 
 last_name: Walsh
 
-weight: 20
+weight: 5
 # Username (this should match the folder name)
 authors:
   - ricky
