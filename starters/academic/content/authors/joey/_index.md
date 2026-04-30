@@ -31,6 +31,8 @@ interests:
   - Vision Language Model
   - Federated Learning
   - Medical Image Computing
+  - Entrepreneurship
+  - Emerging AI trends and ideas
   - Suchirrito & Eierbal
 
 education:
@@ -46,6 +48,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:jaeyoung.cho@ukbonn.de'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=1Hy30RUAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/cjy12182000/
