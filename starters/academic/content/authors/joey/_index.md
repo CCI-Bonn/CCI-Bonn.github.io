@@ -23,7 +23,7 @@ organizations:
     url: https://www.ukbonn.de/neuroradiologie/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Originally from South Korea, with an international background, I am now based in Germany. Within our group, I develop OHIF-AI for integrated segmentation and reporting in OHIF and focus on bringing state-of-the-art AI into radiology workflow, including workflow-grounded validation. I serve on the RISE-MICCAI board as website coordinator.
+bio: Originally from South Korea, with an international background, I am now based in Germany. Within our group, I develop [OHIF-AI](https://github.com/CCI-Bonn/OHIF-AI) for integrated segmentation and reporting in OHIF and focus on bringing state-of-the-art AI into radiology workflow, including workflow-grounded validation. I serve on the RISE-MICCAI board as website coordinator.
 
 interests:
   - Translational Research
@@ -74,4 +74,4 @@ email: 'jaeyoung.cho@ukbonn.de'
 user_groups: 
   - Research team members
 ---
-Originally from South Korea and raised in several countries, I am now based in Germany. My research focuses on translating state-of-the-art AI into radiology workflow. Within our group, I have developed OHIF-AI, which integrates interactive segmentation and AI-assisted report generation in a single browser-based OHIF interface. Longer term, I aim to extend this into a validation platform where emerging approaches can be evaluated rigorously against real-world radiology workflows. In parallel, I serve on the board of [RISE-MICCAI](https://rise-miccai.org/) (MICCAI Society) as website coordinator. Since shortly before I began my doctoral studies, I have also worked as a software engineer at [Need Inc.](https://need.ai/) on an AI-driven radiology and pathology product, with development centered on OHIF and MONAI.
+Originally from South Korea and raised in several countries, I am now based in Germany. My research focuses on translating state-of-the-art AI into radiology workflow. Within our group, I have developed [OHIF-AI](https://github.com/CCI-Bonn/OHIF-AI), which integrates interactive segmentation and AI-assisted report generation in a single browser-based OHIF interface. Longer term, I aim to extend this into a validation platform where emerging approaches can be evaluated rigorously against real-world radiology workflows. In parallel, I serve on the board of [RISE-MICCAI](https://rise-miccai.org/) (MICCAI Society) as website coordinator. Since shortly before I began my doctoral studies, I have also worked as a software engineer at [Need Inc.](https://need.ai/) on an AI-driven radiology and pathology product, with development centered on OHIF and MONAI.
