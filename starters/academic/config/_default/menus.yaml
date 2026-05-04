@@ -16,6 +16,9 @@ main:
   - name: Open Positions
     url: '#posts'
     weight: 30
+  - name: HEADLINE (MICCAI 2026)
+    url: https://headline.ccibonn.ai/
+    weight: 35
   - name: Contact
     url: '#contact'
     weight: 40
