@@ -49,7 +49,7 @@ We are seeking multiple Postdoc, PhD, and Master's thesis candidates to join our
 
 ## Your Qualifications
 - **For Postdoc**: PhD in computer science, mathematics, physics, statistics, or a related field.
-- **For Other positions**: MSc (for PhD) and/or BSc (for Master thesis) in computer science, mathematics, physics, statistics, or a related field.
+- **For other positions**: MSc (for PhD) and/or BSc (for Master thesis) in computer science, mathematics, physics, statistics, or a related field.
 - Theoretical and practical experience in deep learning and machine learning
 - Interest in clinical data and working with interdisciplinary teams 
 - Team player with passion to work in an intercultural environment 
