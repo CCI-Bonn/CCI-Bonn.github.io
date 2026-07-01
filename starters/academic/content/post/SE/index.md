@@ -65,7 +65,7 @@ We, at the division for Computational Radiology & Clinical AI (CCIBonn.ai) at th
 - You’ll have the opportunity to work on impactful open-source initiatives, collaborate with a global community, and advance your career in the dynamic field of medical AI.
 
 ## Starting Date
-We are hiring from the 1st of May 2025.
+We are hiring from the 1st of Sept 2026.
 
 ## Interested? Contact us
 Please send your application to contact@ccibonn.ai (CC: kai.schlamp@ukbonn.de) including your CV and a short cover letter about yourself (~ 1 page).
