@@ -48,14 +48,14 @@ We are seeking multiple Postdoc, PhD, and Master's thesis candidates to join our
 - Publish your work in national and international conferences and journals 
 
 ## Your Qualifications
- 
-- MSc (PhD) BSc (Master thesis) in computer science, mathematics, physics, statistics, or a related field
-- **For Postdoc**: PhD in computer science, mathematics, physics, statistics, or a related field
-- Theoretical and practical experience in deep learning, and machine learning
+- **For Postdoc**: PhD in computer science, mathematics, physics, statistics, or a related field.
+- **For Other positions**: MSc (for PhD) and/or BSc (for Master thesis) in computer science, mathematics, physics, statistics, or a related field.
+- Theoretical and practical experience in deep learning and machine learning
 - Interest in clinical data and working with interdisciplinary teams 
 - Team player with passion to work in an intercultural environment 
 - High degree of autonomy and excellent problem-solving skills
 - Good communication skills in English
+- **Preference will be given to candidates with German language proficiency at B2 level or higher and the ability to communicate fluently in spoken and written German.**
 
 ## Your Benefits
 
