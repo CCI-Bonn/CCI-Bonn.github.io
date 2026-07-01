@@ -37,4 +37,3 @@ design:
   columns: '2'
 ---
 
-Currently, we don't have any open positions.
