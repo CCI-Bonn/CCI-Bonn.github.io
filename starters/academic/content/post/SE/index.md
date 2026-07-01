@@ -48,16 +48,18 @@ We, at the division for Computational Radiology & Clinical AI (CCIBonn.ai) at th
 -	Write technical documentation.
 
 ## Your Qualifications
--	A bachelor's or master's degree in computer science, software engineering, or a related field.
--	Proficiency in web programming and expertise in programming languages such as Python and JavaScript/TypeScript.
--	Experience with tools and frameworks such as Django, pytest, PostgreSQL, and Docker is advantageous.
--	Knowledge of medical imaging data, DICOM standards, and/or NLP is considered a plus.
+-	A master's degree in computer science, software engineering, or a related field.
+-	Documented contributions to open-source projects (own repositories or significant contributions to established projects) are required. Please provide links to relevant GitHub or GitLab profiles in your application.
+-	Proficiency in web programming and expertise in programming languages such as Python, TypeScript, and/or Rust.
+-	Experience with tools and frameworks such as Django, pytest, PostgreSQL, Docker and PyTorch is advantageous.
+-	Knowledge of medical imaging data, DICOM standards, NLP, full-text search, semantic search, RAG, fine-tuning of deep learning modes, and agentic engineering is considered a plus.
 -	Strong problem-solving skills and the ability to work collaboratively within a multidisciplinary team.
+-	German language proficiency at B2 level or higher is mandatory. Applicants must be able to communicate fluently in spoken and written German in a clinical and technical environment. Applications without demonstrated B2-level proficiency in German will not be considered.
 -	Excellent communication skills in English, both written and verbal.
 
 ## Your Benefits
--	Competitive 3 years 100% contract within TV-L E-13 or E-14 standard
--	Exclusive access to the latest and powerful computing resources (Multiple NVIDIA DGX H100 clusters). 
+-	Competitive 2 years 100% contract within TV-L E-13, with the possibility for extension.
+-	Exclusive access to the latest and powerful computing resources (Two NVIDIA DGX clusters).
 -	Collaborate with a dynamic and multidisciplinary team bridging AI research and clinical application.
 -	Opportunities to attend national and international conferences (e.g. MICCAI, CVPR)
 - Potential for being involved in industry collaborations.
@@ -69,4 +71,4 @@ We, at the division for Computational Radiology & Clinical AI (CCIBonn.ai) at th
 We are hiring from the 1st of Sept 2026.
 
 ## Interested? Contact us
-Please send your application to contact@ccibonn.ai (CC: kai.schlamp@ukbonn.de) including your CV and a short cover letter about yourself (~ 1 page).
+Please send your application to contact@ccibonn.ai including your CV and a short cover letter about yourself (~ 1 page).
