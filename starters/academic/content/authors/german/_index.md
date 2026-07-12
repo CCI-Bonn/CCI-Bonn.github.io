@@ -15,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Student Research Assistant
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -34,7 +34,7 @@ education:
   courses:
     - course: "MSc Informatics"
       institution: "Rhenish Friedrich Wilhelm University of Bonn"
-      year: "Since 2024"
+      year: "Since 2023"
 
 social:
   - icon: github
@@ -48,7 +48,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'pavithra.r.31001@gmail.com'
+email: 'mikhelson.g@gmail.com'
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
