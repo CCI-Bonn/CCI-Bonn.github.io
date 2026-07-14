@@ -6,7 +6,7 @@ title: Samuel Kwong
 first_name: Samuel
 last_name: Kwong
 
-weight: 13
+weight: 15
 # Username (this should match the folder name)
 authors:
   - samuel
@@ -63,4 +63,3 @@ email: 'samuel.kwong@ukbonn.de'
 user_groups:
   - Research team members
 ---
-

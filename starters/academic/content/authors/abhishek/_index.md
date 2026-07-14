@@ -6,7 +6,7 @@ title: Abhishek Samanta
 first_name: Abhishek
 last_name: Samanta
 
-weight: 15
+weight: 13
 
 # Username (this should match the folder name)
 authors:
@@ -37,7 +37,7 @@ education:
       institution: Saarland University - Max Planck Informatics
     - course: Bachelor of Technology, Computer Science
       institution: KIIT
-      
+  
 
 social:
   - icon: envelope
@@ -69,7 +69,6 @@ email: ''
 user_groups:
   - Research team members
 ---
-
 I am an AI researcher at the Department of Neuroradiology, Universitätsklinikum Bonn, Germany, where I work on building foundational models, and pipelines for better assistance to doctors and diagnosis. My interests lie in understanding the capabilities and limitations of architectures, and making them more generalizable. Apart from research, I was briefly associated with pharmaceutical consulting and building smart models for deepfake detection.
 
 Outside of academia, I am a part-time band manager, a chess player and involved in German politics and policymaking.

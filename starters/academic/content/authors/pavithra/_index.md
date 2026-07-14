@@ -6,7 +6,7 @@ title: Pavithra Raghavan
 first_name: Pavithra
 last_name: Raghavan
 
-weight: 16
+weight: 25
 # Username (this should match the folder name)
 authors:
   - pavithra
@@ -52,5 +52,5 @@ email: 'pavithra.r.31001@gmail.com'
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Research team members
+  - Alumni
 ---

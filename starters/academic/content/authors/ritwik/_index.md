@@ -38,7 +38,7 @@ education:
   courses:
     - course: Bachelors in Computer Engineering 
       institution: University of Pune
-    
+  
 social:
   - icon: envelope
     icon_pack: fas
@@ -65,5 +65,3 @@ email: 'ritwik.ghosh@ukbonn.de'
 user_groups:
   - Research team members
 ---
-
-

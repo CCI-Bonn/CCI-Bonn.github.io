@@ -6,7 +6,7 @@ title: German Mikhelson
 first_name: German
 last_name: Mikhelson
 
-weight: 17
+weight: 16
 # Username (this should match the folder name)
 authors:
   - german
@@ -35,8 +35,17 @@ education:
     - course: "MSc Informatics"
       institution: "Rhenish Friedrich Wilhelm University of Bonn"
       year: "Since 2023"
+    - course: "BSc Computer Science"
+      institution: "Lomonosov Moscow State University, Faculty of Computational Mathematics and Cybernetics"
+      year: "Since 2019"
 
 social:
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=JRU7gp4AAAAJ&hl=ru
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/german-mikhelson-404aa42aa/
   - icon: github
     icon_pack: fab
     link: https://github.com/Wektor607
@@ -54,4 +63,3 @@ email: 'mikhelson.g@gmail.com'
 user_groups:
   - Research team members
 ---
-
