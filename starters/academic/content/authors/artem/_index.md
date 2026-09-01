@@ -32,7 +32,7 @@ interests:
     
 education:
   courses:
-    - course: "MSc COmputer Science"
+    - course: "MSc Computer Science"
       institution: "Rheinische Friedrich-Wilhelms-Universität Bonn"
       year: "Since 2025"
 
