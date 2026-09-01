@@ -29,10 +29,12 @@
     <h2 class="mb-4">{{ . | markdownify }}</h2>
   </div>
   {{end}}
-  {{ $authorsCount := len $query }}
+  {{ $hiwis := where $query ".Params.role" "eq" "Student Research Assistant" }}
+  {{ $coreTeam := where $query ".Params.role" "ne" "Student Research Assistant" }}
   {{/* First row: Show one person: leader */}}
   {{ if ne . "Alumni" }}
-  <div class="row row-first"  style="justify-content: center;">
+  <div class="col-12">
+  <div class="row row-first">
     {{ range first 1 $query }}
     {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
     {{/* Get link to user's profile page. */}}
@@ -40,7 +42,7 @@
     {{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}
       {{ $link = .RelPermalink }}
     {{ end }}
-    <div class="col-12 col-sm-6 people-person">
+    <div class="col-12 people-person">
       {{ $src := "" }}
       {{ if site.Params.features.avatar.gravatar }}
         {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
@@ -63,15 +65,15 @@
     </div>
     {{ end }}
   </div>
+  </div>
   {{ end }}
 
   {{/* All other full-time (skip for Alumni — they only use the last row) */}}
   {{ if ne . "Alumni" }}
-    {{ $middleStart := 1 }}
-    {{ $middleEnd := sub $authorsCount 4 }}
-    {{ if gt $middleEnd $middleStart }}
-    {{ $middleAuthors := first $middleEnd (after $middleStart $query) }}
-  <div class="row row-middle" style="margin-top: 15px;">
+    {{ $middleAuthors := after 1 $coreTeam }}
+    {{ if gt (len $middleAuthors) 0 }}
+  <div class="col-12">
+  <div class="row row-middle">
     {{ range $middleAuthors }}
     {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
   {{/* Get link to user's profile page. */}}
@@ -79,7 +81,7 @@
   {{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}
     {{ $link = .RelPermalink }}
   {{ end }}
-  <div class="col-12 col-sm-auto people-person">
+  <div class="col-12 people-person">
     {{ $src := "" }}
     {{ if site.Params.features.avatar.gravatar }}
       {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
@@ -102,11 +104,13 @@
   </div>
   {{ end }}
   </div>
+  </div>
   {{ end }}
   {{ end }}
 
-  {{/* Alumni */}}
-  <div class="row row-last" style="margin-top: 15px;justify-content: center;width: -webkit-fill-available;">
+  {{/* Alumni / Hiwi row */}}
+  <div class="col-12">
+  <div class="row row-last {{ if eq . "Alumni" }}row-alumni{{ else }}row-hiwi{{ end }}">
     {{ if eq . "Alumni" }}
       {{ range last 6 $query }}
     {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
@@ -115,7 +119,7 @@
   {{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}
     {{ $link = .RelPermalink }}
   {{ end }}
-  <div class="col-12 col-sm-auto people-person">
+  <div class="col-12 people-person">
     {{ $src := "" }}
     {{ if site.Params.features.avatar.gravatar }}
       {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
@@ -139,14 +143,14 @@
   {{ end }}
   {{ else }}
   {{/* Master thesis, Hiwi */}}
-    {{ range last 3 $query }}
+    {{ range $hiwis }}
     {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
   {{/* Get link to user's profile page. */}}
   {{ $link := "" }}
   {{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}
     {{ $link = .RelPermalink }}
   {{ end }}
-  <div class="col-12 col-sm-auto people-person">
+  <div class="col-12 people-person">
     {{ $src := "" }}
     {{ if site.Params.features.avatar.gravatar }}
       {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
@@ -169,6 +173,7 @@
   </div>
   {{ end }}
   {{ end }}
+  </div>
   </div>
   {{ end }}
 </div>
