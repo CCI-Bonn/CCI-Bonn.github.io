@@ -1,15 +1,16 @@
 ---
 # Display name
-title: Ramon Leiser
+title: Mateusz Marcol
 
 # Full name (for SEO)
-first_name: Ramon
-last_name: Leiser
+first_name: Mateusz
+last_name: Marcol
 
-weight: 27
+weight: 21
+
 # Username (this should match the folder name)
 authors:
-  - ramon
+  - mateusz
 
 # Is this the primary user of the site?
 superuser: false
@@ -26,28 +27,25 @@ organizations:
 bio: 
 
 interests:
-  - Optimization & Inverse Problems
-  - Riemannian Geometry
-  - Approximation Algorithms
-
+  - Flow & Diffusion Models
+  - Reinforcement Learning
+    
 education:
   courses:
-    - course: MSc Mathematics
-      institution: Rhenish Friedrich Wilhelm University of Bonn
-      year: Since 2021
-    - course: BSc Mathematics
-      institution: Vrije Universiteit Amsterdam
-      year: 2019 - 2021
-    - course: BSc Digital Media
-      institution: University Bremen
-      year: 2015 - 2019
-    
+    - course: "MSc Mathematics"
+      institution: "Rheinische Friedrich-Wilhelms-Universität Bonn"
+      year: "Since 2024"
+
 
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/rleiser1995
+    link: 'https://github.com/MateuszMarcol'
+  - icon: linkedin
+    icon_pack: fab
+    link: www.linkedin.com/in/mateusz-marcol
 
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,10 +53,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'leiser@cci-bonn.de'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Research team members
 ---
+
 

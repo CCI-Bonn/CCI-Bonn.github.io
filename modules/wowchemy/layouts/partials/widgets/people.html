@@ -65,11 +65,11 @@
   </div>
   {{ end }}
 
-  {{/* All other full-time */}}
-  
+  {{/* All other full-time (skip for Alumni — they only use the last row) */}}
+  {{ if ne . "Alumni" }}
     {{ $middleStart := 1 }}
     {{ $middleEnd := sub $authorsCount 4 }}
-    {{ if gt $middleEnd $middleStart }}               
+    {{ if gt $middleEnd $middleStart }}
     {{ $middleAuthors := first $middleEnd (after $middleStart $query) }}
   <div class="row row-middle" style="margin-top: 15px;">
     {{ range $middleAuthors }}
@@ -103,11 +103,12 @@
   {{ end }}
   </div>
   {{ end }}
+  {{ end }}
 
   {{/* Alumni */}}
   <div class="row row-last" style="margin-top: 15px;justify-content: center;width: -webkit-fill-available;">
     {{ if eq . "Alumni" }}
-      {{ range last 5 $query }}
+      {{ range last 6 $query }}
     {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
   {{/* Get link to user's profile page. */}}
   {{ $link := "" }}
