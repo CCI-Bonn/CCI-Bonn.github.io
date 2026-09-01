@@ -6,7 +6,7 @@ title: Ramon Leiser
 first_name: Ramon
 last_name: Leiser
 
-weight: 18
+weight: 27
 # Username (this should match the folder name)
 authors:
   - ramon
@@ -59,6 +59,6 @@ email: 'leiser@cci-bonn.de'
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Research team members
+  - Alumni
 ---
 
