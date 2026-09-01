@@ -6,7 +6,7 @@ title: Mateusz Marcol
 first_name: Mateusz
 last_name: Marcol
 
-weight: 2
+weight: 21
 
 # Username (this should match the folder name)
 authors:
