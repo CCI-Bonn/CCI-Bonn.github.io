@@ -5,6 +5,7 @@
 .people-widget {
   font-size: 0.8rem;
   text-align: center;
+  width: 100%;
 }
 
 .people-widget .portrait-title h2 {
@@ -21,13 +22,49 @@
   height: auto;
 }
 
+.people-widget .row-first,
+.people-widget .row-middle,
+.people-widget .row-last {
+  width: 100%;
+  margin-top: 15px;
+}
+
+.people-widget .row-first {
+  justify-content: center;
+  margin-top: 0;
+}
+
+.people-widget .row-middle,
+.people-widget .row-hiwi,
+.people-widget .row-alumni {
+  justify-content: center;
+}
+
+.people-widget .people-person {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+
 @media (min-width: 576px) {
-  .people-widget .col-sm-auto {
-    width: 30%;
+  .people-widget .people-person {
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+  }
+
+  .people-widget .row-first .people-person {
+    flex: 0 0 50%;
+    max-width: 50%;
   }
 }
+
 @media (min-width: 992px) {
-  .people-widget .col-sm-auto {
-    width: 20%;
+  .people-widget .people-person {
+    flex: 0 0 20%;
+    max-width: 20%;
+  }
+
+  .people-widget .row-first .people-person {
+    flex: 0 0 50%;
+    max-width: 50%;
   }
 }
