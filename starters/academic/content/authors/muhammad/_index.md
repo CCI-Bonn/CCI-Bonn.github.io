@@ -23,12 +23,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: I am a biomedical engineer and informatics researcher building software that helps radiologists and researchers turn imaging data into better clinical decisions
 
 interests:
   - Visual Computing
   - Machine Learning
-  - LLMs
+  - LLMs in Healthcare
 
 education:
   courses:
