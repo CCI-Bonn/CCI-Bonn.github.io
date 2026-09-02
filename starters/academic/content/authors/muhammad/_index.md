@@ -26,9 +26,9 @@ organizations:
 bio: I am a biomedical engineer and informatics researcher building software that helps radiologists and researchers turn imaging data into better clinical decisions
 
 interests:
-  - Visual Computing
-  - Machine Learning
-  - LLMs in Healthcare
+  - Medical Image Analysis — making radiology data useful beyond the scanner
+  - Machine Learning for Diagnostics — from DICOM pipelines to clinical decision support
+  - LLMs in Healthcare — turning reports and research data into answers clinicians can use
 
 education:
   courses:
