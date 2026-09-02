@@ -6,7 +6,7 @@ title: Muhammad Humza Arain
 first_name: Muhammad Humza
 last_name: Arain
 
-weight: 22
+weight: 18
 # Username (this should match the folder name)
 authors:
   - muhammad
