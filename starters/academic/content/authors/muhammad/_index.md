@@ -61,3 +61,5 @@ email: 'muhammad.arain@ccibonn.ai'
 user_groups:
   - Research team members
 ---
+
+I am a biomedical engineer and informatics researcher building software that helps radiologists and researchers turn imaging data into better clinical decisions.
