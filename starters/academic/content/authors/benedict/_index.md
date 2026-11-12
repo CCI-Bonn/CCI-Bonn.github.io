@@ -6,7 +6,7 @@ title: Benedict Meyer
 first_name: Benedict
 last_name: Meyer
 
-weight: 19
+weight: 28
 # Username (this should match the folder name)
 authors:
   - benedict
@@ -58,5 +58,5 @@ email: ''
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Research team members
+  - Alumni
 ---

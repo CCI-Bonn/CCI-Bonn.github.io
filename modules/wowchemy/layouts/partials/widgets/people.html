@@ -112,7 +112,7 @@
   <div class="col-12">
   <div class="row row-last {{ if eq . "Alumni" }}row-alumni{{ else }}row-hiwi{{ end }}">
     {{ if eq . "Alumni" }}
-      {{ range last 6 $query }}
+      {{ range $query }}
     {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
   {{/* Get link to user's profile page. */}}
   {{ $link := "" }}
